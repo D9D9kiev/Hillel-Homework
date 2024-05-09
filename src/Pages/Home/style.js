@@ -1,5 +1,6 @@
 import { StyleSheet } from "react-native";
-export const style = StyleSheet.create({
+
+export default StyleSheet.create({
   containerItem: {
     padding: 10,
     backgroundColor: "#fff",
@@ -77,12 +78,11 @@ export const style = StyleSheet.create({
     position: "absolute",
     width: 50,
     height: 50,
-    left: 150,
+    left: 130,
     top: -40,
   },
+
   buySection: {
-    left: 0,
-    bottom: -25,
     flexDirection: "row",
     position: "end",
   },

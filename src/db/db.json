@@ -1,0 +1,104 @@
+{
+  "mockItemData": [
+    {
+      "title": "Pizza 1",
+      "isNew": false,
+      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg",
+      "price": {
+        "newPrice": "$10.99",
+        "oldPrice": "$14.99"
+      },
+      "description": "Long title long title lo..."
+    },
+    {
+      "title": "Pizza 2",
+      "isNew": false,
+      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg",
+      "price": {
+        "newPrice": "$10.99",
+        "oldPrice": "$14.99"
+      },
+      "description": "Long title long title lo..."
+    },
+    {
+      "title": "Pizza 3",
+      "isNew": true,
+      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg",
+      "price": {
+        "newPrice": "$10.99",
+        "oldPrice": "$14.99"
+      },
+      "description": "Long title long title lo..."
+    },
+    {
+      "title": "Pizza 4",
+      "isNew": true,
+      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg",
+      "price": {
+        "newPrice": "$10.99",
+        "oldPrice": "$14.99"
+      },
+      "description": "Long title long title lo..."
+    },
+    {
+      "title": "Pizza 5",
+      "isNew": true,
+      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg",
+      "price": {
+        "newPrice": "$10.99",
+        "oldPrice": "$14.99"
+      },
+      "description": "Long title long title lo..."
+    },
+    {
+      "title": "Pizza 6",
+      "isNew": true,
+      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg",
+      "price": {
+        "newPrice": "$10.99",
+        "oldPrice": "$14.99"
+      },
+      "description": "Long title long title lo..."
+    },
+    {
+      "title": "Pizza 7",
+      "isNew": true,
+      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg",
+      "price": {
+        "newPrice": "$10.99",
+        "oldPrice": "$14.99"
+      },
+      "description": "Long title long title lo..."
+    },
+    {
+      "title": "Pizza 8",
+      "isNew": false,
+      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg",
+      "price": {
+        "newPrice": "$10.99",
+        "oldPrice": "$14.99"
+      },
+      "description": "Long title long title lo..."
+    },
+    {
+      "title": "Pizza 9",
+      "isNew": true,
+      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg",
+      "price": {
+        "newPrice": "$10.99",
+        "oldPrice": "$14.99"
+      },
+      "description": "Long title long title lo..."
+    },
+    {
+      "title": "Pizza 10",
+      "isNew": true,
+      "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg",
+      "price": {
+        "newPrice": "$10.99",
+        "oldPrice": "$14.99"
+      },
+      "description": "Long title long title lo..."
+    }
+  ]
+}

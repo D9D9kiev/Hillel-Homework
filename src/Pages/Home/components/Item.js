@@ -1,24 +1,10 @@
 import { View, Image, Text, StyleSheet, TouchableOpacity } from "react-native";
 import LikeIcon from "../../../../assets/Like.png";
 import BuyIcon from "../../../../assets/Buy.png";
-import { style } from "../Styles";
+import style from "../style";
 
-const mockItemData = [
-  {
-    title: "Pizza 1",
-    isNew: true,
-    image:
-      "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg",
-    price: {
-      newPrice: "New Price",
-      oldPrice: "Old Price",
-    },
-    description: "Long title long title lo...",
-  },
-];
-
-const Item = () => {
-  const { title, isNew, image, price, description } = mockItemData[0];
+const Item = ({ data }) => {
+  const { title, isNew, image, price, description } = data;
   return (
     <View style={style.containerItem}>
       <View style={style.containerImage}>
