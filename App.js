@@ -1,10 +1,5 @@
-import { View } from "react-native";
-import PizzaList from "./src/Pages/Home/components/PizzaList/PizzaList";
-import SwiperComponent from "./src/Pages/Home/components/SwiperComponent";
+import AppNavigation from "./src/container/AppNavigation/AppNavigation";
 
 export default function App() {
-  return (
-    <SwiperComponent />
-    // <PizzaList />
-  );
+  return <AppNavigation />;
 }

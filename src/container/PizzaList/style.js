@@ -2,13 +2,9 @@ import { StyleSheet } from "react-native";
 
 export default StyleSheet.create({
   container: {
-    flex: 1,
     backgroundColor: "#fff",
     alignItems: "center",
     justifyContent: "center",
-    marginTop: 20,
-    marginBottom: 20,
-    paddingHorizontal: 20,
   },
   buttonStyle: {
     backgroundColor: "#1e90ff",

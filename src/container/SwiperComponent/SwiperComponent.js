@@ -7,9 +7,9 @@ import {
   Dimensions,
   SafeAreaView,
 } from "react-native";
-import Pizza1 from "../../../../assets/Pizza1.jpg";
-import Pizza2 from "../../../../assets/Pizza2.jpg";
-import Pizza3 from "../../../../assets/Pizza3.jpg";
+import Pizza1 from "../../../assets/Pizza1.jpg";
+import Pizza2 from "../../../assets/Pizza2.jpg";
+import Pizza3 from "../../../assets/Pizza3.jpg";
 
 const windowWidth = Dimensions.get("window").width;
 
