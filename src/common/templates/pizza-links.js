@@ -223,6 +223,19 @@ export const pizzaStaticPromoImages = [
   require("../../../assets/imgs/pizza-nightcage-gen/pizza_promo_00010.jpg"),
   require("../../../assets/imgs/pizza-nightcage-gen/pizza_promo_00011.jpg"),
 ];
+export const pizzaStaticPromoImagesURL = [
+  "https://raw.githubusercontent.com/D9D9kiev/Hillel-Homework/dev/assets/imgs/pizza-nightcage-gen/pizza_promo_00001.jpg",
+  "https://raw.githubusercontent.com/D9D9kiev/Hillel-Homework/dev/assets/imgs/pizza-nightcage-gen/pizza_promo_00002.jpg",
+  "https://raw.githubusercontent.com/D9D9kiev/Hillel-Homework/dev/assets/imgs/pizza-nightcage-gen/pizza_promo_00003.jpg",
+  "https://raw.githubusercontent.com/D9D9kiev/Hillel-Homework/dev/assets/imgs/pizza-nightcage-gen/pizza_promo_00004.jpg",
+  "https://raw.githubusercontent.com/D9D9kiev/Hillel-Homework/dev/assets/imgs/pizza-nightcage-gen/pizza_promo_00005.jpg",
+  "https://raw.githubusercontent.com/D9D9kiev/Hillel-Homework/dev/assets/imgs/pizza-nightcage-gen/pizza_promo_00006.jpg",
+  "https://raw.githubusercontent.com/D9D9kiev/Hillel-Homework/dev/assets/imgs/pizza-nightcage-gen/pizza_promo_00007.jpg",
+  "https://raw.githubusercontent.com/D9D9kiev/Hillel-Homework/dev/assets/imgs/pizza-nightcage-gen/pizza_promo_00008.jpg",
+  "https://raw.githubusercontent.com/D9D9kiev/Hillel-Homework/dev/assets/imgs/pizza-nightcage-gen/pizza_promo_00009.jpg",
+  "https://raw.githubusercontent.com/D9D9kiev/Hillel-Homework/dev/assets/imgs/pizza-nightcage-gen/pizza_promo_00010.jpg",
+  "https://raw.githubusercontent.com/D9D9kiev/Hillel-Homework/dev/assets/imgs/pizza-nightcage-gen/pizza_promo_00011.jpg",
+];
 
 export const pizzaStaticPromoImagesTheme = [
   require("../../../assets/imgs/pizza-promo/1.jpeg"),
